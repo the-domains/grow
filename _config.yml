@@ -1,7 +1,7 @@
 name: GROW
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.4488760414533317
+typography_spectrum: 0.34106
 cta:
   domain: null
   bucket: null
@@ -18,10 +18,10 @@ color:
   brandColors:
     - '#554e3a'
     - '#20b500'
-    - '#19ad00'
-    - '#514c36'
-    - '#1fb200'
-  brandStrength: 0.33843821566551924
+    - '#7ed56b'
+    - '#c9efbe'
+    - '#9d998d'
+  brandStrength: 1
   lightness: 0.9205197058618069
   saturation: 0.014028043486177921
   rhythmicContrast: 0.08482736675068736
